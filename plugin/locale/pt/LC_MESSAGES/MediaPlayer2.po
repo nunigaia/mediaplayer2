@@ -301,12 +301,3 @@ msgstr "Retomar a Reprodução"
 
 msgid "context menu"
 msgstr "menu de contexto"
-
-#, python-format
-msgid "Filelist"
-msgstr "Lista de arquivos"
-
-#, python-format
-msgid "Playlist"
-msgstr "Lista de Reprodução"
-
