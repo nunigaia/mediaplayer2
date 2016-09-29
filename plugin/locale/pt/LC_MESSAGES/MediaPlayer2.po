@@ -309,3 +309,4 @@ msgstr "Lista de arquivos"
 #, python-format
 msgid "Playlist"
 msgstr "Lista de Reprodução"
+
